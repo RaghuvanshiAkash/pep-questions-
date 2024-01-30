@@ -1,7 +1,7 @@
 //......Q1 wave array......
 //...Q2 move zero to right...
-// A C program to move all zeroes at the end of array
-// ..........gfg solution.....
+// ..Program to move all zeroes at the end of array..
+
  
 #include <stdio.h> 
 
